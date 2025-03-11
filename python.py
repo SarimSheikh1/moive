@@ -3,6 +3,7 @@ import requests
 from dotenv import load_dotenv
 import os
 
+
 # Load API key from .env
 load_dotenv()
 
